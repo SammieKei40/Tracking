@@ -1,0 +1,233 @@
+UNKNOWN
+{
+    PADDING-RIGHT: 0px;
+    PADDING-LEFT: 0px;
+    PADDING-BOTTOM: 0px;
+    MARGIN: 0px;
+    PADDING-TOP: 0px
+}
+BODY
+{
+    BACKGROUND: url(images/top.jpg) gainsboro repeat-x 50% top;
+    MARGIN: 0px;
+    FONT: 0.74em/1.5em Arial, sans-serif;
+    COLOR: black
+}
+H1
+{
+    MARGIN-TOP: 1.5em;
+    FONT-WEIGHT: bolder
+}
+H2
+{
+    MARGIN-TOP: 1.5em
+}
+H3
+{
+    MARGIN-TOP: 1.5em
+}
+H1
+{
+    FONT-SIZE: 2em
+}
+H2
+{
+    FONT-SIZE: 1.4em
+}
+H3
+{
+    FONT-SIZE: 1em
+}
+P
+{
+    MARGIN-TOP: 1.5em
+}
+UL
+{
+    MARGIN-TOP: 1.5em
+}
+OL
+{
+    MARGIN-TOP: 1.5em
+}
+UL
+{
+    MARGIN-LEFT: 3em
+}
+OL
+{
+    MARGIN-LEFT: 3em
+}
+BLOCKQUOTE
+{
+    MARGIN-LEFT: 3em;
+    MARGIN-RIGHT: 3em
+}
+A
+{
+    FONT-WEIGHT: bolder;
+    COLOR: red;
+    FONT-FAMILY: 'Book Antiqua'
+}
+#header
+{
+    PADDING-RIGHT: 0px;
+    PADDING-LEFT: 0px;
+    PADDING-BOTTOM: 0px;
+    MARGIN: 0px auto;
+    WIDTH: 800px;
+    PADDING-TOP: 0px;
+    HEIGHT: 100px
+}
+#header H1
+{
+    PADDING-RIGHT: 0px;
+    PADDING-LEFT: 55px;
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 36px;
+    PADDING-BOTTOM: 10px;
+    MARGIN: 0px;
+    TEXT-TRANSFORM: lowercase;
+    COLOR: #ffffff;
+    PADDING-TOP: 40px
+}
+#menu
+{
+    PADDING-RIGHT: 20px;
+    PADDING-LEFT: 20px;
+    BACKGROUND: url(images/sayyed.png) no-repeat left top;
+    PADDING-BOTTOM: 0px;
+    MARGIN: 0px auto;
+    WIDTH: 760px;
+    PADDING-TOP: 0px;
+    HEIGHT: 43px
+}
+#menu UL
+{
+    MARGIN: 0px;
+    PADDING-TOP: 10px;
+    LIST-STYLE-TYPE: none
+}
+#menu LI
+{
+    DISPLAY: inline
+}
+#menu A
+{
+    PADDING-RIGHT: 20px;
+    PADDING-LEFT: 20px;
+    BACKGROUND: url(images/image06.gif) no-repeat right 50%;
+    PADDING-BOTTOM: 0px;
+    COLOR: #ffffff;
+    PADDING-TOP: 0px;
+    TEXT-DECORATION: none
+}
+#menu A:hover
+{
+}
+#menu .first A
+{
+    PADDING-LEFT: 0px
+}
+#page
+{
+    PADDING-RIGHT: 0px;
+    PADDING-LEFT: 0px;
+    PADDING-BOTTOM: 0px;
+    MARGIN: 0px auto;
+    WIDTH: 800px;
+    PADDING-TOP: 0px;
+    BACKGROUND-COLOR: black
+}
+#page-top
+{
+    BACKGROUND: url(images/image03.jpg) no-repeat left top
+}
+#page-bottom
+{
+    BACKGROUND-COLOR: white
+}
+#content
+{
+    PADDING-RIGHT: 50px;
+    PADDING-LEFT: 60px;
+    FLOAT: right;
+    PADDING-BOTTOM: 30px;
+    WIDTH: 420px;
+    PADDING-TOP: 40px
+}
+#content H2
+{
+    PADDING-RIGHT: 0px;
+    PADDING-LEFT: 0px;
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 24px;
+    PADDING-BOTTOM: 10px;
+    MARGIN: 0px;
+    PADDING-TOP: 20px;
+    BORDER-BOTTOM: #cfcfcf 1px dotted
+}
+#sidebar
+{
+    PADDING-RIGHT: 0px;
+    PADDING-LEFT: 20px;
+    FLOAT: left;
+    PADDING-BOTTOM: 0px;
+    WIDTH: 250px;
+    PADDING-TOP: 20px
+}
+#sidebar H2
+{
+    PADDING-RIGHT: 0px;
+    PADDING-LEFT: 0px;
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 24px;
+    PADDING-BOTTOM: 10px;
+    MARGIN: 0px;
+    PADDING-TOP: 20px;
+    BORDER-BOTTOM: #cfcfcf 1px dotted
+}
+#sidebar UL
+{
+    PADDING-RIGHT: 0px;
+    PADDING-LEFT: 0px;
+    PADDING-BOTTOM: 0px;
+    MARGIN: 0px;
+    PADDING-TOP: 0px;
+    LIST-STYLE-TYPE: none
+}
+#sidebar LI
+{
+    PADDING-RIGHT: 0px;
+    PADDING-LEFT: 0px;
+    PADDING-BOTTOM: 10px;
+    MARGIN: 0px;
+    PADDING-TOP: 10px;
+    BORDER-BOTTOM: #cfcfcf 1px dotted
+}
+#footer
+{
+    PADDING-RIGHT: 0px;
+    PADDING-LEFT: 0px;
+    BACKGROUND: url(images/down.png) no-repeat left top;
+    PADDING-BOTTOM: 20px;
+    MARGIN: 0px auto;
+    WIDTH: 800px;
+    PADDING-TOP: 0px;
+    HEIGHT: 43px
+}
+#footer P
+{
+    PADDING-RIGHT: 0px;
+    PADDING-LEFT: 0px;
+    FONT-SIZE: 11px;
+    PADDING-BOTTOM: 0px;
+    MARGIN: 0px;
+    COLOR: #ffffff;
+    PADDING-TOP: 8px;
+    TEXT-ALIGN: center
+}
+#footer A
+{
+    COLOR: #ffffff
+}

@@ -1,0 +1,9 @@
+simply paste the database from your localhost root..
+
+copy the sampledatabase folder and paste it in this location -->  C:\xampp\mysql\data
+
+this is the oldversion(2006).. to get the new version(2010) pls email me @ dhodz_fou@yahoo.com.ph
+
+
+
+..-dhodzshakur-..
